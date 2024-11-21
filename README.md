@@ -5,9 +5,9 @@ I love developing things in my free time, most of the time around the video game
 I have made several mods for that game in Java, and I'm currently working on my own launcher called [Vercors](https://github.com/vercorsapp) and made in Kotlin using Compose Multiplatform.
 
 <p align="center">
-  <img height=189 src="https://github-readme-stats.vercel.app/api?username=skyecodes&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height=190 src="https://github-readme-stats.vercel.app/api?username=skyecodes&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height=189 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyecodes&layout=compact&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyecodes&layout=compact&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
 </p>
 
 ### Ongoing projects

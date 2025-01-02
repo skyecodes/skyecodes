@@ -2,7 +2,7 @@
 
 I'm a 25 years old software engineer from France.
 I love developing things in my free time, most of the time around the video game Minecraft.
-I have made several mods for that game in Java, and I'm currently working on my own launcher called [Vercors](https://github.com/vercorsapp) and made in Kotlin using Compose Multiplatform.
+I have made several mods for that game in Java, and I'm currently working on my own launcher called [Vercors](https://github.com/skyecodes/vercors) and made in Kotlin using Compose Multiplatform.
 
 <p align="center">
   <img height=190 src="https://github-readme-stats.vercel.app/api?username=skyecodes&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
@@ -13,9 +13,7 @@ I have made several mods for that game in Java, and I'm currently working on my 
 ### Ongoing projects
 
 <p align="center">
-  <a href="https://github.com/vercorsapp/launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vercorsapp&repo=launcher&theme=catppuccin_mocha"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vercorsapp/meta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vercorsapp&repo=meta&theme=catppuccin_mocha"/></a>
+  <a href="https://github.com/skyecodes/vercors"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skyecodes&repo=vercors&theme=catppuccin_mocha"/></a>
 </p>
 
 ### Other projects

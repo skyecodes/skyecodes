@@ -1,28 +1,10 @@
-## Hi, I'm skyecodes!
+# Hi, I'm skyecodes!
 
-I'm a 25 years old software engineer from France.
-I love developing things in my free time, most of the time around the video game Minecraft.
-I have made several mods for that game in Java, and I'm currently working on my own launcher called [Vercors](https://github.com/skyecodes/vercors) and made in Kotlin using Compose Multiplatform.
+I'm a 26 years old software engineer from France.  
+I love developing things in my free time, most of the time around the video game Minecraft.  
+I have made several mods for that game in Java, and I'm currently working on my own launcher called [Vercors](https://codeberg.org/skyecodes/vercors) and made in Kotlin using Compose Multiplatform.
 
-<p align="center">
-  <img height=190 src="https://github-readme-stats.vercel.app/api?username=skyecodes&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyecodes&layout=compact&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-</p>
-
-### Ongoing projects
-
-<p align="center">
-  <a href="https://github.com/skyecodes/vercors"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skyecodes&repo=vercors&theme=catppuccin_mocha"/></a>
-</p>
-
-### Other projects
-
-<p align="center">
-  <a href="https://github.com/skyecodes/IBE-Editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skyecodes&repo=IBE-Editor&theme=catppuccin_mocha"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/skyecodes/CMPDL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skyecodes&repo=CMPDL&theme=catppuccin_mocha"/></a>
-</p>
+## Starting from August 2025, the repositories of my new projects are hosted on [Codeberg](https://codeberg.org/skyecodes).
 
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=kotlin,java,ts,js,html,css,sass,php,c,cpp,cs,python,bash,md,regex)

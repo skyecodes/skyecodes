@@ -1,10 +1,10 @@
 # Hi, I'm skyecodes!
 
-I'm a 26 years old software engineer from France.  
+I'm a 27 years old software engineer from France.  
 I love developing things in my free time, most of the time around the video game Minecraft.  
-I have made several mods for that game in Java, and I'm currently working on my own launcher called [Vercors](https://codeberg.org/skyecodes/vercors) and made in Kotlin using Compose Multiplatform.
+I have made several mods for that game in Java, and I'm currently working on my own launcher called [Vercors](https://git.skye.codes/skyecodes/vercors) and made in Kotlin using Compose Multiplatform.
 
-## Starting from August 2025, the repositories of my new projects are hosted on [Codeberg](https://codeberg.org/skyecodes).
+## The repositories of my new projects are hosted on my [Forgejo](https://git.skye.codes) instance and are mirrored on [Codeberg](https://codeberg.org/skyecodes).
 
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=kotlin,java,ts,js,html,css,sass,php,c,cpp,cs,python,bash,md,regex)
